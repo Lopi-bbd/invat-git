@@ -1,21 +1,4 @@
-/* o linie de cod // si bonus la linia aia de cod / bouns la bonus 
-  si am transformat cele mai de sus in comentariu de intro */
+/* head comment */
+/* pe doua linii */
 
-/* am bagat un comentariu pentru ca pot */ 
-
-
-/*inca o linie de cod pe linia opt, proaspat comentat */
-/* ammend 23*/
-
-function unu() {
-
-}
-
-function doi() {
-
-}
-
-
-
-
-/* tralala comentariu final */
+console.log('linie de consola');
