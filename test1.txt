@@ -1,1 +1,2 @@
-o linie de cod
+/* head comment */
+/* pe doua linii */
