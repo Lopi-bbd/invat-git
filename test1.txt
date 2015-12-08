@@ -1,3 +1,21 @@
-o linie de cod // si bonus la linia aia de cod / bouns la bonus
+/* o linie de cod // si bonus la linia aia de cod / bouns la bonus 
+  si am transformat cele mai de sus in comentariu de intro */
 
-inca o linie de cod pe linia trei
+/* am bagat un comentariu pentru ca pot */ 
+
+
+/*inca o linie de cod pe linia opt, proaspat comentat */
+/* ammend 23*/
+
+function unu() {
+
+}
+
+function doi() {
+
+}
+
+
+
+
+/* tralala comentariu final */
