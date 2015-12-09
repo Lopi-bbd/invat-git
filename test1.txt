@@ -1,2 +1,4 @@
 /* head comment */
 /* pe doua linii */
+
+/* mai adaug un comentariu aici sub head comment */ 
