@@ -2,4 +2,4 @@
 /* pe doua linii */
 
 
-console.log('linie de consola');
+console.log('o bucata linie de consola');
