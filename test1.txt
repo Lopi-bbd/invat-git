@@ -1,4 +1,5 @@
 /* head comment */
 /* pe doua linii */
 
+
 console.log('linie de consola');
